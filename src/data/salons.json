@@ -1,0 +1,155 @@
+{
+  "hairSalons": [
+    {
+      "name": "Victor Noblesse",
+      "city": "Gothenburg",
+      "prices": {
+        "haircut": 690,
+        "coloring": 800,
+        "styling": 500
+      },
+      "address": "Södra Larmgatan 6, 411 16 Göteborg",
+      "phoneNumber": "031-711 44 52",
+      "email": "info@victornoblesse.se",
+      "url": "https://victornoblesse.se/",
+      "lat": 57.70278035249611,
+      "lon": 11.963891877250807
+    },
+    {
+      "name": "Råger Noblesse",
+      "city": "Gothenburg",
+      "prices": {
+        "haircut": 250,
+        "coloring": 900,
+        "styling": 600
+      },
+      "address": "Kungsportsavenyn 1, 411 36 Göteborg",
+      "phoneNumber": "031-123 45 67",
+      "email": "info@ragernoblesse.se",
+      "url": "https://ragernoblesse.se/",
+      "lat": 53.70278035249611,
+      "lon": 1.963891877250807
+    },
+    {
+      "name": "Pål Noblesse",
+      "city": "Gothenburg",
+      "prices": {
+        "haircut": 400,
+        "coloring": 1000,
+        "styling": 700
+      },
+      "address": "Nordstan 1, 411 05 Göteborg",
+      "phoneNumber": "031-234 56 78",
+      "email": "info@palnoblesse.se",
+      "url": "https://palnoblesse.se/",
+      "lat": 57.70278035249611,
+      "lon": 11.963891877250807
+    },
+    {
+      "name": "Sara's Salon",
+      "city": "Stockholm",
+      "prices": {
+        "haircut": 250,
+        "coloring": 700,
+        "styling": 450
+      },
+      "address": "Drottninggatan 1, 111 21 Stockholm",
+      "phoneNumber": "08-123 456 78",
+      "email": "info@sarassalon.se",
+      "url": "https://sarassalon.se/",
+      "lat": 57.70278035249611,
+      "lon": 11.963891877250807
+      
+    },
+    {
+      "name": "Luxe Hair Studio",
+      "city": "Gothenburg",
+      "prices": {
+        "haircut": 100,
+        "coloring": 850,
+        "styling": 550
+      },
+      "address": "Avenyn 2, 412 51 Göteborg",
+      "phoneNumber": "031-345 67 89",
+      "email": "info@luxehairstudio.se",
+      "url": "https://luxehairstudio.se/",
+      "lat": 57.70278035249611,
+      "lon": 11.963891877250807
+    },
+    {
+      "name": "Style Masters",
+      "city": "Gothenburg",
+      "prices": {
+        "haircut": 520,
+        "coloring": 750,
+        "styling": 480
+      },
+      "address": "Första Långgatan 1, 411 03 Göteborg",
+      "phoneNumber": "031-456 78 90",
+      "email": "info@stylemasters.se",
+      "url": "https://stylemasters.se/",
+      "lat": 57.70278035249611,
+      "lon": 11.963891877250807
+    },
+    {
+      "name": "Glamour Cuts",
+      "city": "Gothenburg",
+      "prices": {
+        "haircut": 780,
+        "coloring": 900,
+        "styling": 550
+      },
+      "address": "Kyrkogatan 1, 411 15 Göteborg",
+      "phoneNumber": "031-567 89 01",
+      "email": "info@glamourcuts.se",
+      "url": "https://glamourcuts.se/",
+      "lat": 57.70278035249611,
+      "lon": 11.963891877250807
+    },
+    {
+      "name": "Chic Trends",
+      "city": "Gothenburg",
+      "prices": {
+        "haircut": 420,
+        "coloring": 950,
+        "styling": 600
+      },
+      "address": "Vasagatan 1, 411 24 Göteborg",
+      "phoneNumber": "031-678 90 12",
+      "email": "info@chictrends.se",
+      "url": "https://chictrends.se/",
+      "lat": 57.70278035249611,
+      "lon": 11.963891877250807
+    },
+    {
+      "name": "Elegant Styles",
+      "city": "Gothenburg",
+      "prices": {
+        "haircut": 490,
+        "coloring": 800,
+        "styling": 500
+      },
+      "address": "Kungsgatan 1, 411 19 Göteborg",
+      "phoneNumber": "031-789 01 23",
+      "email": "info@elegantstyles.se",
+      "url": "https://elegantstyles.se/",
+      "lat": 57.70278035249611,
+      "lon": 11.963891877250807
+    },
+    {
+      "name": "The Cut Above",
+      "city": "Gothenburg",
+      "prices": {
+        "haircut": 850,
+        "coloring": 950,
+        "styling": 550
+      },
+      "address": "Magasinsgatan 1, 411 18 Göteborg",
+      "phoneNumber": "031-890 12 34",
+      "email": "info@thecutabove.se",
+      "url": "https://thecutabove.se/",
+      "lat": 57.70278035249611,
+      "lon": 11.963891877250807
+    }
+  ]
+}

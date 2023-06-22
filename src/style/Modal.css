@@ -1,0 +1,77 @@
+.modal-container {
+    position: fixed;
+    top: 50%;
+    left: 100%;
+    transform: translate(-70%, -50%);
+    width: 50%;
+    height: 100%;
+    overflow:hidden;
+    background-color: green;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    z-index: 9998;
+  
+  }
+  
+  .modal-container::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    z-index: -1;
+  }
+  
+  .modal-content {
+    /* Add your styles for the modal content here */
+    position: fixed;
+    top:50%;
+    width:80%;
+    color: #0B0A17;
+    background-color: white;
+    padding: 10%;
+    ;
+  }
+  
+  .modal-close {
+    position: fixed;
+    cursor: pointer;
+    top:12pt;
+    left:0;
+    background-color:white;
+    color:black;
+    z-index: 10000;
+    transition: transform 0.05s ease-in-out;
+  }
+  .modal-close:hover {
+    transform: scale(1.05);
+    background-color:white;
+
+  }
+
+  .modal-card-wrapper{
+    position: fixed;
+    top:30%;
+    left:46%;
+    padding:10%;
+    transform: translate(-70%, -50%);
+    width: 50%;
+    height: 40%;
+    overflow: auto;
+    background-color:none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    z-index: 9999;
+  }
+
+  .modal-title{
+    color:black;
+    font-size:2em;
+    padding: 20%;
+    margin:auto;
+     
+
+  }
